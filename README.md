@@ -1,6 +1,6 @@
 # Cybersecurity Log Analysis & Threat Detection
 
-A beginner-friendly cybersecurity project built with Python to analyze synthetic authentication logs and detect suspicious login activity.
+A cybersecurity project built with Python to analyze synthetic authentication logs and detect suspicious login activity.
 
 ## Project Overview
 
